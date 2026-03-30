@@ -8,10 +8,14 @@ The purpose of this project uses Python to study important traffic patterns and 
 **Content**
 --------------------------------------
 * Read Me file - summary of project 3
+* Raw NGSIM file - Given
+* Raw NHTS file - Given
+* Cleaned NGSIM file - Cleaned up dataset
+* Cleaned NHTS file - Cleaned up dataset
 * Scope of Work file - List of task responsible for
 * Annotated Code Document file - Each line of code explained
 * Gantt Chart file - Assign responsibilities and check progress
 * Engineering Timesheet - Track who and the hours spent on each task
 * Technical Report file - Summary and disscusion of project 2 results
-* Project 3 Phython Code file
+* Project 3 Phython Code file (Project 3 - NayLawEhHtoo.ipynb)
   - User Guide: There is no sequential input prompts, run each section of code from beginning to end.
