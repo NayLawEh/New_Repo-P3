@@ -1,5 +1,5 @@
 # Project 3
-** VISUALIZE **
+**Visualizing data**
 --------------------------------------
 This Python Programming Assignment 2 is to share between and the professor.
 ## Purpose
