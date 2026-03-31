@@ -16,6 +16,6 @@ The purpose of this project uses Python to study important traffic patterns and 
 * Annotated Code Document file - Each line of code explained
 * Gantt Chart file - Assign responsibilities and check progress
 * Engineering Timesheet - Track who and the hours spent on each task
-* Technical Report file - Summary and disscusion of project 2 results
+* Technical Report file - Summary and disscusion of project 3 results
 * Project 3 Phython Code file (Project 3 - NayLawEhHtoo.ipynb)
   - User Guide: There is no sequential input prompts, run each section of code from beginning to end.
